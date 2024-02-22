@@ -1,12 +1,26 @@
 # A propos de moi 
 
 ## Profil
-je suis etudiant en 2eme année de but informatique 
+# Qui suis-je ?
+je suis etudiant en 2eme année de but informatique a l'iut du Limousin. Je souhaite me spécialiser en programmation logiciel ou en programmation WEB, et pourquoi pas faire les 2 en developpant des applications WEB. 
+
+# Contact 
+N'hésiter pas a me contacter par 
+
+## Compétences
+# Programmation
+  + HTML, CSS, Javascript, PHP, React
+  + Java, C, C++
+  + Qualité de code : Junit, Mockito, Design pattern ...
+# Conduite de projet 
+  + Méthode Agile
+  + 
+
 
 ## Projets 
 
 ### Le verger [➕](url)
-Pour ce projet en équipe de 2, nous avons du developper un jeu de société apeller __*Le Lerger*__ ou il faut recolter différents fruit sur des arbres en lancant un dès, en fesant attention a ne pas compléter le puzzle du corbeau, qui constitu entre autre le moyen de perdre le jeu.
+Pour ce projet en équipe de 2, nous avons du developper un jeu de société apeller __*Le Verger*__ ou il faut recolter différents fruit sur des arbres en lancant un dès, en fesant attention a ne pas compléter le puzzle du corbeau, qui constitu entre autre le moyen de perdre le jeu.
 J'ai pu travailler les compétences suivantes : 
   + Programmation logiciel
   + Interface homme-machine (MVC)
@@ -21,3 +35,4 @@ J'ai pu développer plusieurs compétences :
 
 > [!NOTE]
 > J'ai aussi participer a d'autre projet mais moins ambitieux et intéréssent 
+
