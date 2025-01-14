@@ -9,13 +9,16 @@ N'hésiter pas a me contacter par
 
 ## Compétences
 # Programmation
-  + HTML, CSS, Javascript, PHP, React
-  + Java, C, C++
-  + Qualité de code : Junit, Mockito, Design pattern ...
+  + **Front-end**
+      - HTML, CSS, Javascript, React.js
+  + **Back-end**
+      - Node.js, Express.js, PHP, Java, Python
+  + **Qualité de code**
+      -  Design pattern, SOLID, Junit, php unit
 # Conduite de projet 
   + Méthode Agile
-  + 
-
+  + Cycle en V
+  + Méthode SCRUM
 
 ## Projets 
 
